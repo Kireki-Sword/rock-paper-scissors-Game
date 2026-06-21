@@ -22,6 +22,8 @@ h1{
   background-color: hsla(202, 74%, 54%, 0.65);
   cursor: pointer;
   transition: background-color 0.5s ease;
+  border: none;
+  box-shadow: 10px 10px 15px hsla(202, 74%, 54%, 0.65);
 }
 .choices button:hover{
   background-color: hsla(202, 74%, 54%, 0.85);
